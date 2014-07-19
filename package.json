@@ -1,0 +1,21 @@
+{
+  "name": "gulper-bower",
+  "version": "0.0.1",
+  "description": "A gulper plugin to load bower modules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulAvery/sails-gulper-bower.git"
+  },
+  "keywords": [
+    "gulper",
+    "gulp",
+    "bower"
+  ],
+  "author": "Florian Albertz",
+  "license": "MIT",
+  "dependencies": {
+    "event-stream": "^3.1.5",
+    "main-bower-files": "^1.0.1"
+  }
+}
