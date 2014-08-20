@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/PaulAvery/sails-gulper-bower.git"
+    "url": "https://github.com/PaulAvery/node-gulper-bower.git"
   },
   "keywords": [
     "gulper",

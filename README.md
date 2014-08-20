@@ -7,5 +7,7 @@ A [gulper](https://github.com/PaulAvery/node-gulper) plugin to include bower pac
 var bower = require('gulper-bower');
 var gulper = new require('gulper')(config)
 
-gulper.plugin(bower);
+gulper.plugin(bower.js);
+gulper.plugin(bower.css);
+gulper.plugin(bower.assets);
 ```
